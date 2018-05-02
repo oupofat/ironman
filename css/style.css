@@ -33,7 +33,7 @@ h1{
 h1,
 h3,img {
 	font-family: stark;
-	color: orangered;
+	color: #DA1F28;
 	text-align: center;
 	border: 20px;
 	border-width: auto;
@@ -47,6 +47,7 @@ h3,img {
 h3 {
 	width: 175px;
 	font-size: 18px;
+	
 }
 
 
@@ -69,9 +70,8 @@ h3 {
 }
 
 .fa-facebook {
-	background: yellow;
+	background-color: yellow;
 	color: orangered;
-	border-radius: 50%;
 	
 }
 
