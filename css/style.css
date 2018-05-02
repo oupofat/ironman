@@ -17,8 +17,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 	vertical-align: baseline;
 }
 
-body {
-	line-height: 1;
+body {	
 	background-image: url(space.jpg)
 }
 
@@ -28,19 +27,14 @@ body {
 }
 h1{
 	font-size: 40px;
-	display: ;
+	height: auto;
 	text-align: center;
-	margin: 35%;
-	margin-top: 0%;
-	
 }
 h1,
-h3 {
+h3,img {
 	font-family: stark;
 	color: orangered;
 	text-align: center;
-	
-	
 	border: 20px;
 	border-width: auto;
 	padding: 8px;
@@ -52,42 +46,38 @@ h3 {
 
 h3 {
 	width: 175px;
-	font-size: 20px;
+	font-size: 18px;
 }
 
-body {
-	background-image: url(space.jpg)
-}
 
 .gallery {
-	min-height: 100vh;
+	
 	display: flex;
 	flex-wrap: wrap;
 	align-items: flex-start;
 	justify-content: center;
-	margin-top: 10%;
+	}
 
-}
-p {
+.footer {
 	color: gold;
 	font-size: 30px;
 	text-align: center;
-	align-content: center;
+	
 }
 .fa:hover {
 	opacity: 0.7;
 }
 
 .fa-facebook {
-	background: orangered;
-	color: yellow;
+	background: yellow;
+	color: orangered;
 	border-radius: 50%;
 	
 }
 
 .fa-twitter {
-	background: orangered;
-	color: yellow;
+	background: yellow;
+	color: orangered;
 	border-radius: 50%;
 }
 
