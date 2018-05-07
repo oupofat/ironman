@@ -15,11 +15,12 @@ img {
 	width: 50%;
 }
 
-.mark1 .mark2 {
+.mark1 .mark2 .mark3 {
 	display: block;
 	width: 50%;
 	height: auto;
 }
+
 
 .overlay {
 	position: absolute;
